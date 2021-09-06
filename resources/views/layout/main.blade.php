@@ -14,7 +14,7 @@
         <div id="wrapper">
     
             <!-- Sidebar -->
-            <ul style="background: linear-gradient(45deg, rgba(48,44,115,1) 0%, rgba(112,50,86,1) 38%, rgba(26,75,79,1) 72%, rgba(2,160,193,1) 100%);" class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+            <ul style="background: linear-gradient(45deg, rgba(48,44,115,1) 0%, rgba(112,50,86,1) 38%, rgba(26,75,79,1) 72%, rgba(48,44,115,1) 100%);" class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
     
                 <!-- Sidebar - Brand -->
                 <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
@@ -122,7 +122,7 @@
                 <div id="content">
                     
                     <!-- Topbar -->
-                    <nav style="background: linear-gradient(45deg, rgba(48,44,115,1) 0%, rgba(112,50,86,1) 38%, rgba(26,75,79,1) 72%, rgba(2,160,193,1) 100%);" class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+                    <nav style="background: linear-gradient(45deg, rgba(48,44,115,1) 0%, rgba(112,50,86,1) 38%, rgba(26,75,79,1) 72%, rgba(48,44,115,1) 100%);" class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
                         
                         <!-- Sidebar Toggle (Topbar) -->
                         <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">

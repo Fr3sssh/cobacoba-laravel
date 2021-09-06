@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [AuthController::class,'loginPage']);
+Route::get('/home', [AuthController::class,'mainPage'])->name('home');

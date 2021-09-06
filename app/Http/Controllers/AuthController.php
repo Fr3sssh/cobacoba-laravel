@@ -10,4 +10,9 @@ class AuthController extends Controller
     public function loginPage(){
         return view('auth.login'); //untuk view ngarahin repository pake titik
     }
+    public function mainPage(){
+        return view('auth.home');
+    }
 }
+
+
